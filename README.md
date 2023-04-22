@@ -1,4 +1,4 @@
-![Uploading Sophia Wiley.png…]()
+![about me image](Sophia Wiley.png)
 
 ### Hi there 👋
 
