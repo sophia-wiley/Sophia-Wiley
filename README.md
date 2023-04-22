@@ -4,7 +4,7 @@
 
 I'm Sophia, and I'm a technical writer who creates user guides, docs for API tools, and other software docs.
 
-## Projects
+## ✍️ Projects
 Some projects I have worked on
 * [Streams table user guide](https://github.com/airbytehq/airbyte/pull/24326)
 * [Bing Ads API user guide](https://docs.microsoft.com/en-us/advertising/guides/get-started?view=bingads-13#get-developer-token)
