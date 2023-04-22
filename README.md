@@ -7,7 +7,7 @@ I'm Sophia, and I'm a technical writer who creates user guides, docs for API too
 ## ✍️ Projects
 Some projects I have worked on
 * [Streams table user guide](https://github.com/airbytehq/airbyte/pull/24326)
-* [Bing Ads API user guide]([https://docs.microsoft.com/en-us/advertising/guides/get-started?view=bingads-13#get-developer-token](https://github.com/airbytehq/airbyte/pull/16755)
+* [Bing Ads API user guide](https://github.com/airbytehq/airbyte/pull/16755)
 * [Instagram Ads API user guide](https://github.com/airbytehq/airbyte/pull/17693) 
 * [dbt Cloud Integration user guide](https://github.com/airbytehq/airbyte/blob/master/docs/cloud/managing-airbyte-cloud/dbt-cloud-integration.md)
 * [Restructuring docs](https://github.com/airbytehq/airbyte/pull/23319)
