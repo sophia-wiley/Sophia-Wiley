@@ -1,5 +1,8 @@
+![Uploading Sophia Wiley.png…]()
+
 ### Hi there 👋
 
+I'm Sophia, and I am a technical writer
 <!--
 **sophia-wiley/Sophia-Wiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
