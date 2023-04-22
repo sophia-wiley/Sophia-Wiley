@@ -1,8 +1,9 @@
 ![about me image](https://github.com/sophia-wiley/Sophia-Wiley/blob/5be68182ac42a26fb2f229d6530211d9b6c5ac9a/sophia_wiley_about_me.png)
 
-### Hi there 👋
+### Hey there! 👋
 
-I'm Sophia, and I am a technical writer
+I'm Sophia, and I'm a technical writer who creates user guides, docs for API tools, and other software docs.
+
 <!--
 **sophia-wiley/Sophia-Wiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
