@@ -1,4 +1,4 @@
-![about me image](https://github.com/sophia-wiley/Sophia-Wiley/blob/a81d06ff2575bd913269b55d7086f51ffca5981c/about_me_3.png)
+![about me image](https://github.com/sophia-wiley/Sophia-Wiley/blob/f6c749b0f64323106814d3f190d552a0776c8c8d/about_me_4.png)
 
 ### Hey there! 👋
 
