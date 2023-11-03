@@ -12,6 +12,7 @@ Some projects I have worked on
 * [dbt Cloud Integration user guide](https://github.com/airbytehq/airbyte/blob/master/docs/cloud/managing-airbyte-cloud/dbt-cloud-integration.md)
 * [Restructuring docs](https://github.com/airbytehq/airbyte/pull/23319)
 * [Release notes](https://github.com/airbytehq/airbyte/blob/master/docs/release_notes/july_2022.md)
+* [Docs landing page Figma UI prototype](https://github.com/airbytehq/airbyte/pull/18752) 
 
 ## 📬 Get in touch
 * [LinkedIn](https://www.linkedin.com/in/sophiawiley/)
